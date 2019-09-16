@@ -6,9 +6,8 @@ gem 'middleman-autoprefixer'
 gem "middleman-livereload"
 
 gem "slim"
-gem "less"
+# gem "less"
 gem "stylus"
-gem 'therubyracer'
 gem 'liquid'
 
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
