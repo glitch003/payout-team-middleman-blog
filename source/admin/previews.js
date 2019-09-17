@@ -50,7 +50,7 @@ const NavigationPreview = ({ entry }) => {
     <header className="header-primary">
       <div className="logo">
         <a href="/">
-          <img src="/images/logo.svg" alt="Kaldi"/>
+          <img src="/images/logo.svg" alt="Payout.Team"/>
         </a>
       </div>
       <a className="nav-button">
